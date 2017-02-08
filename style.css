@@ -1,0 +1,28 @@
+body
+{
+ background: url("photo_bg.jpg") no-repeat center center fixed;
+ background-size: cover;
+ 
+}
+h2
+{
+	font-family: 'Roboto Slab', serif;
+	font-weight: 300;
+	font-size: 2.2em;
+	color: white;
+	text-shadow: 0 0 10px rgba(0,0,0,0.8);
+	margin: 0 auto;
+	padding-top: 150px;
+	max-width: 300px;
+	text-align: center;
+	position: relative;
+	top: 0px;
+ }   
+ h4 {
+	text-transform: uppercase;
+	color: red;
+	font-weight: 400;
+	letter-spacing: 1px;
+	font-size: 1.4em;
+	line-height: 2.8em;
+}
